@@ -1,0 +1,17 @@
+img{
+    height: 375px;
+    width: 300px;
+}
+div{
+    height: 75px ;
+    width: 180px;
+}
+img{
+    margin-top: 100px;
+    margin-left: 100px;
+    border-color: 5px red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
